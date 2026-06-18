@@ -71,7 +71,7 @@ End-to-end healthcare analytics project analysing patient remission outcomes, tr
 - Developed Logistic Regression and Random Forest classification models to explore remission prediction, selecting Logistic Regression as the preferred model based on test performance.
 - Created an interactive Power BI dashboard covering remission outcomes, diagnosis analysis, hospital/region performance, and predictive analytics insights.
 
-`Python` `Pandas` `scikit-learn` `Power BI` `SQLite` `SQL` `Machine Learning``Data Anlytics`
+`Python` `Pandas` `scikit-learn` `Power BI` `SQLite` `SQL` `Machine Learning` `Data Anlytics`
 
 ---
 
