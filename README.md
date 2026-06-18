@@ -61,17 +61,17 @@ My work sits at the intersection of **large language models**, **retrieval-augme
 
 ## Featured Projects
 
-### 🏥 Healthcare Analytics Dashboard
-> Python · Power BI · scikit-learn · AIHW data · Azure SQL
+### 🏥 Healthcare Remission Analytics Dashboard
+> Python · Power BI · scikit-learn · Machine Learning · SQL
 
-End-to-end analytics project on real Australian hospital data from the Australian Institute of Health and Welfare (AIHW). Includes a full data pipeline, readmission risk ML model, and 4-page interactive Power BI dashboard with Row-Level Security.
+End-to-end healthcare analytics project analysing patient remission outcomes, treatment costs, hospital performance, and follow-up visit patterns. Built a complete analytics workflow from data cleaning to SQL analysis, exploratory data visualisation, machine learning, and Power BI dashboarding.
 
-- Cleaned and modelled 3 AIHW datasets covering 12.78M separations across 8 states
-- Built a Gradient Boosting readmission risk model (AUC: 0.84) on synthetic patient data calibrated to AIHW population statistics
-- Delivered a 4-page Power BI dashboard covering admissions, waiting times, risk scoring, and 5-year trends
-- Implemented Row-Level Security for state-based access control
+- Cleaned and transformed a 3,000-record healthcare remission dataset using Python and Pandas.
+- Built SQL queries to analyse remission rate, treatment cost, treatment length, hospital performance, diagnosis trends, and regional outcomes.
+- Developed Logistic Regression and Random Forest classification models to explore remission prediction, selecting Logistic Regression as the preferred model based on test performance.
+- Created an interactive Power BI dashboard covering remission outcomes, diagnosis analysis, hospital/region performance, and predictive analytics insights.
 
-`Python` `Pandas` `scikit-learn` `Power BI` `DAX` `SQL` `Azure`
+`Python` `Pandas` `scikit-learn` `Power BI` `SQLite` `SQL` `Machine Learning``Data Anlytics`
 
 ---
 
